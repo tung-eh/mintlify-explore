@@ -18,19 +18,25 @@
         ]
       },
       {
-        "group": "Essentials",
+        "group": "Scheduling",
         "pages": [
           {
-                "group": "Nested group",
-                "pages": [
-                    "essentials/markdown",
-                    "essentials/code",
-                    "essentials/images"
-                ]
-            },
-          "essentials/settings",
-          "essentials/navigation",
-          "essentials/reusable-snippets"
+              "group": "Employees & members",
+              "pages": [
+                  "scheduling/employees-and-members/add-employees-to-business-account",
+                  "scheduling/employees-and-members/manage-who-can-join-your-business-account"
+              ]
+          },
+          {
+              "group": "Shifts",
+              "pages": [
+              ]
+          },
+          {
+              "group": "Schedules",
+              "pages": [
+              ]
+          }
         ]
       }
     ],
