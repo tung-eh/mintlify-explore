@@ -11,11 +11,10 @@
   "navigation": {
     "groups": [
       {
-        "group": "Get Started",
+        "group": "Getting Started",
         "pages": [
-          "index",
-          "quickstart",
-          "development"
+          "what-is-camelo",
+          "download-camelo"
         ]
       },
       {
