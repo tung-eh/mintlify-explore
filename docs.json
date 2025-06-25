@@ -13,8 +13,8 @@
       {
         "group": "Getting Started",
         "pages": [
-          "what-is-camelo",
-          "download-camelo"
+          "getting-started/what-is-camelo",
+          "getting-started/download-camelo"
         ]
       },
       {
