@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "palm",
+  "theme": "maple",
   "name": "Camelo Product Guide",
   "colors": {
     "primary": "#6366f1",
